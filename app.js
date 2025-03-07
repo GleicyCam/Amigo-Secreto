@@ -1,0 +1,1 @@
+let amigos = []; // Array para armazenar os nomes dos amigos
