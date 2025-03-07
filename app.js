@@ -15,3 +15,11 @@ function adicionarAmigo() {
         atualizarLista("#listaAmigos", nome); // Atualiza a exibição da lista de amigos
         input.value = ""; // Limpa o campo de entrada
     }
+}
+
+function atualizarLista(tag, texto) {
+    const lista = document.querySelector(tag);
+    const item = document.createElement('li');
+    item.textContent = texto;
+    lista.appendChild(item);
+}
