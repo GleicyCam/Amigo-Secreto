@@ -32,6 +32,9 @@
    </ul>
    <h2>Instruções de Uso</h2>
    <p>No campo de entrada, insira o nome de um amigo e clique em "Adicionar" para registrar o nome digitado no sistema. Após adicionar todos os amigos, um por um, clique no botão "Sortear Amigo" para realizar o sorteio dos nomes registrados.</p>
+    <h2 id="acesso-ao-projeto">Acesso ao projeto</h2>
+    <p>Você pode acessar o projeto online clicando no link abaixo:</p>
+    <p><a href="https://gleicycam.github.io/Amigo-Secreto/" target="_blank"><strong>🔗 Acesse aqui</strong></a></p>
    <h2>Desenvolvedora</h2>
     <img src="https://github.com/user-attachments/assets/576ddd38-9519-47a2-b3c6-d26d96bb159d" width = "100px" alt="Gleiciany Campos">
     <p> Gleiciany Campos</p>
