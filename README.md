@@ -15,7 +15,7 @@
     <li>Tecnologias utilizadas</li>
     <li>Instruções de Uso</li>
     <li>Acesso ao projeto</li>
-    <li>Desenvolvedora</li>
+    <li>Autora</li>
   </ul> 
     <!-- Descrição do projeto -->
     <h2>Descrição do projeto</h2>
@@ -36,7 +36,7 @@
     <h2 id="acesso-ao-projeto">Acesso ao projeto</h2>
     <p>Você pode acessar o projeto online clicando no link abaixo:</p>
     <p><a href="https://gleicycam.github.io/Amigo-Secreto/" target="_blank"><strong>🔗 Acesse aqui</strong></a></p>
-   <h2>Desenvolvedora</h2>
+   <h2>Autora</h2>
     <img src="https://github.com/user-attachments/assets/576ddd38-9519-47a2-b3c6-d26d96bb159d" width = "100px" alt="Gleiciany Campos">
     <p> Gleiciany Campos</p>
 </body> 
