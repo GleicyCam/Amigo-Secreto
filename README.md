@@ -14,6 +14,7 @@
     <li>Funcionalidades do projeto</li>
     <li>Tecnologias utilizadas</li>
     <li>Instruções de Uso</li>
+    <li>Acesso ao projeto</li>
     <li>Desenvolvedora</li>
   </ul> 
     <!-- Descrição do projeto -->
